@@ -1,0 +1,10 @@
+*.js linguist-language=C#
+*.css linguist-language=C#
+*.html linguist-language=C#
+*.cs linguist-language=C#
+*.meta linguist-language=C#
+*.unity linguist-language=C#
+*.exe linguist-language=C#
+*.assets linguist-language=C#
+*.dll linguist-language=C#
+*.csproj linguist-language=C#
