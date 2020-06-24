@@ -15,7 +15,7 @@ public class UiManager : MonoBehaviour
         //将二维数组的值转化为具体的位置值
         int pos = row*4 + cloumn;
         //Debug.Log("pos = " + pos);
-        Debug.Log("value = " + value);
+        //Debug.Log("value = " + value);
 
         //1.对应的格子按值显示对应sprite
         GameObject go = gridList[pos].transform.Find("Text").gameObject;
